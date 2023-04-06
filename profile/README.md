@@ -18,7 +18,7 @@ WebReinvent is a software development company that provides a range of end-to-en
 - [VaahNuxt](https://vaah.dev/nuxt) : Built impressive frontend with Nuxt 3 & VaahCMS API
 
 
-**[Support Our Open Source Projects](https://github.com/sponsors/themodernpk)**
+**[Support Our Open Source Products](https://github.com/sponsors/themodernpk)**
 
 ### Want to build Software Products?
 
