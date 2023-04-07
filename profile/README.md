@@ -25,5 +25,5 @@ WebReinvent is a software development company that provides a range of end-to-en
 **[Get In Touch](https://webreinvent.com/contact-us?utm_source=github&utm_medium=profile&utm_campaign=webreinvent)**
 
 <p align="center">
-<a href="https://webreinvent.com/contact-us?utm_source=github&utm_medium=profile&utm_campaign=webreinvent"><img src="https://raw.githubusercontent.com/webreinvent/.github/master/images/github-banner.png" width="850"></a>
+<a href="https://webreinvent.com/contact-us?utm_source=github&utm_medium=profile&utm_campaign=webreinvent"><img src="https://raw.githubusercontent.com/webreinvent/.github/master/images/banner.png" width="850"></a>
 </p>
