@@ -13,7 +13,7 @@ WebReinvent is a software development company that provides a range of end-to-en
 - [VaahCMS - Laravel 10 & Vue 3](https://vaah.dev/cms) : Enterprise Application Platform with Headless Content Management
 - [VaahSaaS](https://vaah.dev/saas) : Multi-tenant SaaS Product Development
 - [VaahCLI](https://vaah.dev/cli) : CLI Tool for Scaffold & Rapid Development
-- [VaahStore](https://vaah.dev/store) : Multiple Vendor Laravel E-Commerce
+- [VaahStore](https://vaah.dev/store) : Mult-Vendor Laravel E-Commerce & Marketplace
 - [VaahFlutter](https://vaah.dev/flutter) : A Comprehensive Flutter Scaffolding with All Basic Features
 - [VaahNuxt](https://vaah.dev/nuxt) : Built impressive frontend with Nuxt 3 & VaahCMS API
 
